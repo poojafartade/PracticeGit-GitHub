@@ -1,1 +1,1 @@
-# PracticeGit-GitHub
+# PracticeGit & GitHub
