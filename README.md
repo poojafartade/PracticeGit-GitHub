@@ -1,2 +1,2 @@
-# PracticeGit & GitHub
+# PracticeGit & GitHub Technologies
 #
