@@ -1,4 +1,5 @@
 # PracticeGit & GitHub Technologies. <br>
 # main branch
 #EEADME.md
-# learning
+# learning Git and git hub commands
+
